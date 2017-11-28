@@ -23,6 +23,11 @@
 </script>
 
 <style scoped>
+  .list-item {
+    width: 220px;
+    margin: 0 auto;
+    cursor: pointer;
+  }
   .list-item-img {
     margin-bottom: 15px;
   }
